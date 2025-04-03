@@ -10,8 +10,8 @@ config_version=5
 
 [application]
 
-config/name="Comedot"
-config/description="Components Framework for Godot"
+config/name="Arhoy"
+config/description="Arhoy, the pirate game you never heard of."
 config/version="4.4.2.1337"
 config/tags=PackedStringArray("components", "framework", "plugin", "template")
 run/main_scene="uid://7hpq16neqhai"
@@ -70,6 +70,8 @@ enabled=PackedStringArray("res://addons/Comedot/plugin.cfg")
 [file_customization]
 
 folder_colors={
+"res://Arhoy/": "blue",
+"res://Arhoy/Assets/": "purple",
 "res://Assets/": "purple",
 "res://AutoLoad/": "orange",
 "res://Components/": "blue",
