@@ -70,7 +70,7 @@ enabled=PackedStringArray("res://addons/Comedot/plugin.cfg")
 [file_customization]
 
 folder_colors={
-"res://Arhoy/": "blue",
+"res://Arhoy/": "teal",
 "res://Arhoy/Assets/": "purple",
 "res://Assets/": "purple",
 "res://AutoLoad/": "orange",
